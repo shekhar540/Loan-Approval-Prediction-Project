@@ -12,24 +12,6 @@ This project uses machine learning to predict whether a loan application will be
 
 ---
 
-## 📂 Dataset Overview
-
-Features include:
-- `no_of_dependents`
-- `education`
-- `self_employed`
-- `income_annum`
-- `loan_amount`
-- `loan_term`
-- `cibil_score`
-- `residential_assets_value`
-- `commercial_assets_value`
-- `luxury_assets_value`
-- `bank_asset_value`
-- `loan_status` (Target Variable)
-
----
-
 ## 📌 Project Workflow
 
 ### 1️⃣ Data Cleaning
