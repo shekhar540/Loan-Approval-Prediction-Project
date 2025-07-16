@@ -69,14 +69,14 @@ This project uses machine learning to predict whether a loan application will be
 
 ---
 
-## 📑 How to Run
+## 👨‍💻 Author
+
+**Shekhar Mishra**
+
+---
+
+## 🚀 Getting Started
 
 ```bash
 # Clone the repo
 git clone <https://github.com/shekhar540/Loan-Approval-Prediction-Project>
-
----
-
-## 👨‍💻 Author
-
-**Shekhar Mishra**
